@@ -1,2 +1,2 @@
 my first readme
-udate readme
+update readme
